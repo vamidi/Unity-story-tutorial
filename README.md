@@ -1,3 +1,7 @@
+![](./installation/storytime_logo.jpg)
+
+![](./installation/gameplay.png)
+
 # Unity-story-tutorial
 Tutorial repository how to create a story using StoryTime.
 
@@ -9,7 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
--  Unity ver. 2020.3 or higher
+- Unity ver. 2020.3 or higher
+- StoryTime ver. 1.6.3 or higher
 
 ### Running the project
 
