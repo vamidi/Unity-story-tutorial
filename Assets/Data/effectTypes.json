@@ -1,0 +1,26 @@
+{
+  "id": "-MfSUY0IbUTsinBJ0DJh",
+  "metadata": {
+    "created_at": 1627213672663,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "effectTypes",
+    "updated_at": 1627213672663,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "created_at": 1627213672663,
+      "deleted": false,
+      "name": "None",
+      "updated_at": 1627213672663
+    }
+  ]
+}

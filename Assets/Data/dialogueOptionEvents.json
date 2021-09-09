@@ -1,0 +1,29 @@
+{
+  "id": "-MfSUY0C4jDW9wLVSEe-",
+  "metadata": {
+    "created_at": 1627213672652,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "dialogueOptionEvents",
+    "updated_at": 1627213672652,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "characterId": 0,
+      "created_at": 1627213672652,
+      "deleted": false,
+      "dialogueOptionId": 0,
+      "name": "",
+      "updated_at": 1627213672652,
+      "value": 0
+    }
+  ]
+}

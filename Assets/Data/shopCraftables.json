@@ -1,0 +1,29 @@
+{
+  "id": "-MfSUY0Kjd8c7o1IuF0H",
+  "metadata": {
+    "created_at": 1627213672667,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "shopCraftables",
+    "updated_at": 1627213672667,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "childId": 0,
+      "created_at": 1627213672667,
+      "deleted": false,
+      "parentId": 0,
+      "shopRevisionId": 0,
+      "updated_at": 1627213672667,
+      "value": 0
+    }
+  ]
+}

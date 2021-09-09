@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dialogues_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8c88cdbc8b6d010478758b47ce084501, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Hi YouTube, my name is Pete.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 1
+  - m_Id: 3
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 2
+  - m_Id: 4
+    m_Localized: Hi Welcome to our village, are you familiar with the community?
+    m_Metadata:
+      m_Items:
+      - id: 3
+  - m_Id: 5
+    m_Localized: "Well, you are just in time for the Grand Festival. You can play
+      in all kinds of activity.\nTalk to the grand master to participate. \nYou would
+      make a wonderful competitor!\nSee you there traveler!"
+    m_Metadata:
+      m_Items:
+      - id: 4
+  - m_Id: 6
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 5
+  - m_Id: 7
+    m_Localized: Welcome the village, are you familiar with the community?
+    m_Metadata:
+      m_Items:
+      - id: 6
+  - m_Id: 8
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 7
+  - m_Id: 9
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 8
+  - m_Id: 10
+    m_Localized: Well, you are just in time for the Grand Festival. You can play
+      in all kinds of activity. Talk to Ben if you need more information.
+    m_Metadata:
+      m_Items:
+      - id: 9
+  - m_Id: 11
+    m_Localized: Are you ready to participate now?
+    m_Metadata:
+      m_Items:
+      - id: 10
+  - m_Id: 12
+    m_Localized: Well, you are just in time for the Grand Festival. You can do all
+      kinds of activities. Talk to Ben for more information.
+    m_Metadata:
+      m_Items:
+      - id: 11
+  - m_Id: 13
+    m_Localized: Hi, my name is Ben, I heard from my friend Pete that you want to
+      participate in our Grand Festival
+    m_Metadata:
+      m_Items:
+      - id: 12
+  - m_Id: 14
+    m_Localized: Are you ready to participate now?
+    m_Metadata:
+      m_Items:
+      - id: 13
+  - m_Id: 15
+    m_Localized: Wonderful! Sign in your name here and you are good to go.
+    m_Metadata:
+      m_Items:
+      - id: 14
+  - m_Id: 16
+    m_Localized: Sure no problem! Take all the time that you need.
+    m_Metadata:
+      m_Items:
+      - id: 15
+  - m_Id: 17
+    m_Localized: Wonderful! Sign in your name here and you are good to go.
+    m_Metadata:
+      m_Items:
+      - id: 16
+  - m_Id: 18
+    m_Localized: Sure no problem! Take all the time you need.
+    m_Metadata:
+      m_Items:
+      - id: 17
+  references:
+    version: 1
+    00000000:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 1
+    00000001:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 2
+    00000002:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 3
+    00000003:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 4
+    00000004:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 5
+    00000005:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 6
+    00000006:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 7
+    00000007:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 8
+    00000008:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 9
+    00000009:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 10
+    0000000A:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 11
+    0000000B:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 12
+    0000000C:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 13
+    0000000D:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 14
+    0000000E:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 15
+    0000000F:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 16
+    00000010:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 17
+    00000011:
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 18

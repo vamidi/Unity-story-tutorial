@@ -1,0 +1,26 @@
+{
+  "id": "-MfSUY0Naq-t7Bb1Bfsw",
+  "metadata": {
+    "created_at": 1627213672671,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "enemyCategories",
+    "updated_at": 1627213672671,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "created_at": 1627213672671,
+      "deleted": false,
+      "name": "",
+      "updated_at": 1627213672671
+    }
+  ]
+}

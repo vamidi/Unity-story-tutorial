@@ -1,0 +1,32 @@
+{
+  "id": "-MfSUY0DtNsclQnrJWQC",
+  "metadata": {
+    "created_at": 1627213672653,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "questTypes",
+    "updated_at": 1627213672653,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "created_at": 1627213672653,
+      "deleted": false,
+      "name": "Main",
+      "updated_at": 1627213672653
+    },
+    {
+      "created_at": 1627213672653,
+      "deleted": false,
+      "name": "Sub",
+      "updated_at": 1627213672653
+    }
+  ]
+}

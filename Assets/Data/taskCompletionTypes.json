@@ -1,0 +1,56 @@
+{
+  "id": "-MfSUY0Hak7UBnn1CdKZ",
+  "metadata": {
+    "created_at": 1627213672661,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "taskCompletionTypes",
+    "updated_at": 1627213672661,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "created_at": 1627213672661,
+      "deleted": false,
+      "name": "Collect",
+      "updated_at": 1627213672661
+    },
+    {
+      "created_at": 1627213672661,
+      "deleted": false,
+      "name": "Defeat",
+      "updated_at": 1627213672661
+    },
+    {
+      "created_at": 1627213672661,
+      "deleted": false,
+      "name": "Talk",
+      "updated_at": 1627213672661
+    },
+    {
+      "created_at": 1627213672661,
+      "deleted": false,
+      "name": "Collect",
+      "updated_at": 1627213672661
+    },
+    {
+      "created_at": 1627213672661,
+      "deleted": false,
+      "name": "Interact",
+      "updated_at": 1627213672661
+    },
+    {
+      "created_at": 1627213672661,
+      "deleted": false,
+      "name": "Defend",
+      "updated_at": 1627213672661
+    }
+  ]
+}

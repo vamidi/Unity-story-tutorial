@@ -1,0 +1,28 @@
+{
+  "id": "-MfSUY0MauGyFaj758CI",
+  "metadata": {
+    "created_at": 1627213672669,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "shopCraftConditions",
+    "updated_at": 1627213672669,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "amount": 0,
+      "childId": 0,
+      "created_at": 1627213672669,
+      "deleted": false,
+      "parentId": 0,
+      "updated_at": 1627213672669
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": "-MfSUY0Gn3tnovGXr5j5",
+  "metadata": {
+    "created_at": 1627213672658,
+    "deleted": false,
+    "description": "",
+    "lastUID": 6,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "stories",
+    "updated_at": 1627213672658,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "childId": 0,
+      "created_at": 1627217408294,
+      "deleted": false,
+      "description": {
+        "en": "A Festival for the locals"
+      },
+      "parentId": 0,
+      "taskId": 9007199254740991,
+      "title": {
+        "en": "Grand Festival"
+      },
+      "typeId": 9007199254740991,
+      "updated_at": 1627217408294,
+      "data": {
+        "id": "story@0.2.0",
+        "nodes": {
+          "1": {
+            "id": 1,
+            "data": {
+              "dialogueId": 0
+            },
+            "inputs": {},
+            "outputs": {
+              "ExecOut": {
+                "connections": []
+              },
+              "dialogueOut": {
+                "connections": [
+                  {
+                    "node": 6,
+                    "input": "dialogueIn",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            "name": "Start"
+          },
+          "6": {
+            "id": 6,
+            "data": {
+              "options": {
+                "optionOut-0": {
+                  "key": 0,
+                  "value": 7
+                },
+                "optionOut-1": {
+                  "key": 1,
+                  "value": 8
+                }
+              },
+              "dialogueId": 10
+            },
+            "inputs": {
+              "dialogueIn": {
+                "connections": [
+                  {
+                    "node": 1,
+                    "output": "dialogueOut",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            "outputs": {
+              "ExecOut": {
+                "connections": []
+              },
+              "dialogueOut": {
+                "connections": []
+              },
+              "optionOut-0": {
+                "connections": [
+                  {
+                    "node": 7,
+                    "input": "dialogueIn",
+                    "data": {}
+                  }
+                ]
+              },
+              "optionOut-1": {
+                "connections": []
+              }
+            },
+            "name": "Dialogue"
+          },
+          "7": {
+            "id": 7,
+            "data": {
+              "options": {},
+              "dialogueId": 11
+            },
+            "inputs": {
+              "dialogueIn": {
+                "connections": [
+                  {
+                    "node": 6,
+                    "output": "optionOut-0",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            "outputs": {
+              "ExecOut": {
+                "connections": []
+              },
+              "dialogueOut": {
+                "connections": []
+              }
+            },
+            "name": "Dialogue"
+          }
+        },
+        "comments": [
+          {
+            "text": null,
+            "position": [
+              -487.4999478158036,
+              106.24998044431837
+            ],
+            "links": [
+              3
+            ],
+            "type": "frame",
+            "width": 356,
+            "height": 227
+          },
+          {
+            "position": [
+              -417.3120243841021,
+              222.64478116199834
+            ],
+            "links": [
+              5
+            ],
+            "type": "frame",
+            "width": 355.9999999999999,
+            "height": 226.99999999999997
+          },
+          {
+            "position": [
+              961.3908687274997,
+              255.16218865169884
+            ],
+            "links": [
+              7
+            ],
+            "type": "frame",
+            "width": 356.0000000000001,
+            "height": 227
+          }
+        ],
+        "characters": [
+          0
+        ]
+      }
+    },
+    {
+      "childId": 12,
+      "created_at": 1627220139103,
+      "deleted": false,
+      "description": {
+        "en": "Ben is going tell more about the Grand Festival"
+      },
+      "parentId": 1,
+      "taskId": 9007199254740991,
+      "title": {
+        "en": "Grand Festival Ben"
+      },
+      "typeId": 9007199254740991,
+      "updated_at": 1627220139103,
+      "data": {
+        "id": "story@0.2.0",
+        "nodes": {
+          "8": {
+            "id": 8,
+            "data": {
+              "dialogueId": 12
+            },
+            "inputs": {},
+            "outputs": {
+              "ExecOut": {
+                "connections": []
+              },
+              "dialogueOut": {
+                "connections": [
+                  {
+                    "node": 11,
+                    "input": "dialogueIn",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            "name": "Start"
+          },
+          "9": {
+            "id": 9,
+            "data": {
+              "options": {},
+              "dialogueId": 16
+            },
+            "inputs": {
+              "dialogueIn": {
+                "connections": [
+                  {
+                    "node": 11,
+                    "output": "optionOut-0",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            "outputs": {
+              "ExecOut": {
+                "connections": []
+              },
+              "dialogueOut": {
+                "connections": []
+              }
+            },
+            "name": "Dialogue"
+          },
+          "10": {
+            "id": 10,
+            "data": {
+              "options": {},
+              "dialogueId": 17
+            },
+            "inputs": {
+              "dialogueIn": {
+                "connections": [
+                  {
+                    "node": 11,
+                    "output": "optionOut-1",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            "outputs": {
+              "ExecOut": {
+                "connections": []
+              },
+              "dialogueOut": {
+                "connections": []
+              }
+            },
+            "name": "Dialogue"
+          },
+          "11": {
+            "id": 11,
+            "data": {
+              "options": {
+                "optionOut-0": {
+                  "key": 0,
+                  "value": 11
+                },
+                "optionOut-1": {
+                  "key": 1,
+                  "value": 12
+                }
+              },
+              "dialogueId": 18
+            },
+            "inputs": {
+              "dialogueIn": {
+                "connections": [
+                  {
+                    "node": 8,
+                    "output": "dialogueOut",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            "outputs": {
+              "ExecOut": {
+                "connections": []
+              },
+              "dialogueOut": {
+                "connections": []
+              },
+              "optionOut-0": {
+                "connections": [
+                  {
+                    "node": 9,
+                    "input": "dialogueIn",
+                    "data": {}
+                  }
+                ]
+              },
+              "optionOut-1": {
+                "connections": [
+                  {
+                    "node": 10,
+                    "input": "dialogueIn",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            "name": "Dialogue"
+          }
+        },
+        "comments": [],
+        "characters": [
+          1
+        ]
+      }
+    }
+  ]
+}

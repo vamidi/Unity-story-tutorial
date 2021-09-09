@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: StoryTitles
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 88bffb042c231f047a06bbc1c303d2d8, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 05da2a44eaa448446ba2f99ab2d19c75, type: 2}
+  - {fileID: 11400000, guid: 605ef46d7435c5c4492fb65db4498050, type: 2}
+  - {fileID: 11400000, guid: c2f60415f2fc2764384588d93b39dd3f, type: 2}
+  - {fileID: 11400000, guid: 756e05ea88487d14f92802d2668b29a7, type: 2}
+  m_Extensions:
+  - id: 0
+  m_Group: String Table
+  references:
+    version: 1
+    00000000:
+      type: {class: JsonExtension, ns: DatabaseSync.Localization.Plugins.JSON, asm: com.vamidicreations.storytime.editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        fields:
+        - id: 1
+        - id: 2
+        - id: 3
+        - id: 4
+        - id: 5
+        jsonServiceProvider: {fileID: 11400000, guid: d68a7b5f7c905a047817f47788ffabae, type: 2}
+        tableName: 
+        tableId: stories
+        removeMissingPulledKeys: 1
+    00000001:
+      type: {class: JsonField, ns: DatabaseSync.Localization.Plugins.JSON.Fields, asm: com.vamidicreations.storytime.editor}
+      data:
+        m_Column: title
+    00000002:
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: en
+        m_LocaleIdentifier:
+          m_Code: en
+        m_IncludeComments: 0
+    00000003:
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: fr
+        m_LocaleIdentifier:
+          m_Code: fr
+        m_IncludeComments: 0
+    00000004:
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: de
+        m_LocaleIdentifier:
+          m_Code: de
+        m_IncludeComments: 0
+    00000005:
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: es
+        m_LocaleIdentifier:
+          m_Code: es
+        m_IncludeComments: 0

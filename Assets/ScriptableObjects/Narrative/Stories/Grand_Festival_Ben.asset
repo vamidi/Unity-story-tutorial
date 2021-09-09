@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0c95ea65afc4205abe815c53ab7b378, type: 3}
+  m_Name: Grand_Festival_Ben
+  m_EditorClassIdentifier: 
+  guid: 003f57be8cc908543ad83fa754b3643e
+  id: 6
+  tableName: stories
+  dropdownColumn: title
+  linkID: 4294967295
+  linkedColumn: parentId
+  linkedTable: 
+  overrideTable: 0
+  collection: {fileID: 11400000, guid: 44d7137899ebb234eabc5a60e9e12cf8, type: 2}
+  overrideDialogueOptionsTable: 1
+  dialogueOptionsCollection: {fileID: 11400000, guid: 44d7137899ebb234eabc5a60e9e12cf8, type: 2}
+  character: {fileID: 11400000, guid: 549842cd71d69d04cbda801b88bf929f, type: 2}
+  characterName: 
+  startDialogue:
+    nextDialogueID: 4294967295
+    dialogueType: 0
+    sentence:
+      m_TableReference:
+        m_TableCollectionName: GUID:8c88cdbc8b6d010478758b47ce084501
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 1
+    dialogueEvent:
+      eventName: 
+      value: {fileID: 0}
+    choices: []
+  characterID: 4294967295
+  parentId: 1
+  childId: 12
+  tasks: []
+  title:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 1
+  description:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 1
+  typeId: -2147483648

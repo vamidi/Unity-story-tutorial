@@ -1,0 +1,230 @@
+{
+  "id": "-MfSUY09g8fXx3LmJ2FA",
+  "metadata": {
+    "created_at": 1627213672646,
+    "deleted": false,
+    "description": "",
+    "lastUID": 18,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "dialogues",
+    "updated_at": 1627213672646,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "characterId": 0,
+      "created_at": 1627213672646,
+      "deleted": false,
+      "nextId": 0,
+      "options": "",
+      "parentId": 0,
+      "text": {
+        "en": "Hi YouTube, my name is Pete."
+      },
+      "updated_at": 1627215055068
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627215126472,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": ""
+      },
+      "updated_at": 1627215126472
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627215176382,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": ""
+      },
+      "updated_at": 1627215176382
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627215391805,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Hi Welcome to our village, are you familiar with the community?"
+      },
+      "updated_at": 1627215391805
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627215668364,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Well, you are just in time for the Grand Festival. You can play in all kinds of activity.\nTalk to the grand master to participate. \nYou would make a wonderful competitor!\nSee you there traveler!"
+      },
+      "updated_at": 1627215668364
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627215764832,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": ""
+      },
+      "updated_at": 1627215764832
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627217460246,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Welcome the village, are you familiar with the community?"
+      },
+      "updated_at": 1627217460246
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627217545715,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": ""
+      },
+      "updated_at": 1627217545715
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627217848284,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": ""
+      },
+      "updated_at": 1627217848284
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627217916216,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Well, you are just in time for the Grand Festival. You can play in all kinds of activity. Talk to Ben if you need more information."
+      },
+      "updated_at": 1627217916216
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627219415881,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Welcome to the village, are you familiar with the community?"
+      },
+      "updated_at": 1627219415881
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627219520210,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Well, you are just in time for the Grand Festival. You can do all kinds of activities. Talk to Ben for more information."
+      },
+      "updated_at": 1627219520210
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627220089892,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Hi, my name is Ben, I heard from my friend Pete that you want to participate in our Grand Festival"
+      },
+      "updated_at": 1627220089892
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627220156394,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Are you ready to participate now?"
+      },
+      "updated_at": 1627220156394
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627220251004,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Wonderful! Sign in your name here and you are good to go."
+      },
+      "updated_at": 1627220251004
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1627220279207,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Sure no problem! Take all the time that you need."
+      },
+      "updated_at": 1627220279207
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1629880522834,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Wonderful! Sign in your name here and you are good to go."
+      },
+      "updated_at": 1629880522834
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1629880553700,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Sure no problem! Take all the time you need."
+      },
+      "updated_at": 1629880553700
+    },
+    {
+      "characterId": 9007199254740991,
+      "created_at": 1631003876166,
+      "deleted": false,
+      "nextId": 9007199254740991,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Are you ready to participate now?"
+      },
+      "updated_at": 1631003876166
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "-MfSUY0C4jDW9wLVSEdz",
+  "metadata": {
+    "created_at": 1627213672650,
+    "deleted": false,
+    "description": "",
+    "lastUID": 12,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "dialogueOptions",
+    "updated_at": 1627213672650,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "childId": 0,
+      "created_at": 1627213672650,
+      "deleted": false,
+      "parentId": 0,
+      "text": {
+        "en": ""
+      },
+      "updated_at": 1627213672650
+    },
+    {
+      "created_at": 1627215553894,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Yes."
+      },
+      "updated_at": 1627215553894
+    },
+    {
+      "childId": 4,
+      "created_at": 1627215575029,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "No, I am not."
+      },
+      "updated_at": 1627215575029
+    },
+    {
+      "childId": 7,
+      "created_at": 1627217518489,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "No, I am not."
+      },
+      "updated_at": 1627217518489
+    },
+    {
+      "created_at": 1627217519285,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Yes, I know my way around."
+      },
+      "updated_at": 1627217519285
+    },
+    {
+      "childId": 9,
+      "created_at": 1627217879381,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "No, I am not."
+      },
+      "updated_at": 1627217879381
+    },
+    {
+      "created_at": 1627217879971,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Yes, I know my way around."
+      },
+      "updated_at": 1627217879971
+    },
+    {
+      "childId": 11,
+      "created_at": 1627219451806,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "No, I am not."
+      },
+      "updated_at": 1627219451806
+    },
+    {
+      "childId": 17,
+      "created_at": 1627219452384,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Yes, I know my way around."
+      },
+      "updated_at": 1627219452384
+    },
+    {
+      "childId": 14,
+      "created_at": 1627220230743,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Yes."
+      },
+      "updated_at": 1627220230743
+    },
+    {
+      "childId": 15,
+      "created_at": 1627220231419,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "No."
+      },
+      "updated_at": 1627220231419
+    },
+    {
+      "childId": 16,
+      "created_at": 1631003936024,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "Yes!"
+      },
+      "updated_at": 1631003936024
+    },
+    {
+      "childId": 17,
+      "created_at": 1631003936570,
+      "deleted": false,
+      "parentId": 9007199254740991,
+      "text": {
+        "en": "No."
+      },
+      "updated_at": 1631003936570
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "-MfSUY0EupGqUrsI4dOg",
+  "metadata": {
+    "created_at": 1627213672655,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "rewardTypes",
+    "updated_at": 1627213672655,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "created_at": 1627213672655,
+      "deleted": false,
+      "name": "None",
+      "updated_at": 1627213672655
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "-MfSUY0BmlTEkqwKUroP",
+  "metadata": {
+    "created_at": 1627213672648,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "items",
+    "updated_at": 1627213672648,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "created_at": 1627213672648,
+      "deleted": false,
+      "description": {
+        "en": ""
+      },
+      "effectPrimaryValue": 0,
+      "effectTypeId": 0,
+      "name": {
+        "en": ""
+      },
+      "sellValue": 0,
+      "sellable": true,
+      "updated_at": 1627213672648
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "-MfSUY0EupGqUrsI4dOf",
+  "metadata": {
+    "created_at": 1627213672654,
+    "deleted": false,
+    "description": "",
+    "lastUID": 0,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "nonPlayableCharacters",
+    "updated_at": 1627213672654,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "created_at": 1627213672654,
+      "deleted": false,
+      "description": "Just a plain non playable character",
+      "name": "A NPC",
+      "updated_at": 1627213672654
+    }
+  ]
+}

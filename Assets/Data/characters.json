@@ -1,0 +1,42 @@
+{
+  "id": "-MfSUY0BmlTEkqwKUroQ",
+  "metadata": {
+    "created_at": 1627213672649,
+    "deleted": false,
+    "description": "",
+    "lastUID": 1,
+    "owner": "k5yUOA7a5KMPrnlRa4ae1TSjYH32",
+    "private": false,
+    "title": "characters",
+    "updated_at": 1627213672649,
+    "version": {
+      "major": 2020,
+      "minor": 1,
+      "release": "5f3"
+    }
+  },
+  "data": [
+    {
+      "created_at": 1627213672649,
+      "deleted": false,
+      "description": {
+        "en": "Pete is the best friend of Ben"
+      },
+      "name": {
+        "en": "Pete"
+      },
+      "updated_at": 1627214424380
+    },
+    {
+      "created_at": 1627213805979,
+      "deleted": false,
+      "description": {
+        "en": "Ben is the best friend of Pete"
+      },
+      "name": {
+        "en": "Ben"
+      },
+      "updated_at": 1627214442218
+    }
+  ]
+}
