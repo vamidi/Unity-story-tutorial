@@ -2,9 +2,8 @@
     <img width="400px" src="https://github.com/vamidi/Unity-story-tutorial/blob/main/installation/storytime_logo.png">    
 </p>
 
-![](./installation/gameplay.png)
-
 # Unity-story-tutorial
+![](./installation/gameplay.png)
 Tutorial repository how to create a story using StoryTime.
 
 This is the official repository for the episode <b>#5</b> of the [Vamidicreations Youtube Channel](https://www.youtube.com/channel/UCUoly9B9KC5T4phZAU511cw)!
