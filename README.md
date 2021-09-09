@@ -1,4 +1,6 @@
-![](./installation/storytime_logo.jpg)
+<p align="center">
+    <img width="400px" src="https://github.com/vamidi/Unity-story-tutorial/blob/main/installation/storytime_logo.png">    
+</p>
 
 ![](./installation/gameplay.png)
 
